@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": -83.05, "lat": 42.33 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 71.85,
+    "feels_like": 71.65,
+    "temp_min": 69.01,
+    "temp_max": 73.99,
+    "pressure": 1020,
+    "humidity": 73
+  },
+  "visibility": 10000,
+  "wind": { "speed": 8.05, "deg": 210 },
+  "clouds": { "all": 1 },
+  "dt": 1596952030,
+  "sys": {
+    "type": 1,
+    "id": 3806,
+    "country": "US",
+    "sunrise": 1596969221,
+    "sunset": 1597020100
+  },
+  "timezone": -14400,
+  "id": 4990729,
+  "name": "Detroit",
+  "cod": 200
+}
